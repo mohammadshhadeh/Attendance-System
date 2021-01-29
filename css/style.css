@@ -33,9 +33,7 @@ header .opt {
     font-size: 18px
 }
 
-
 /*export */
-
 .export:hover {
     cursor: pointer;
     background-color: #c7c1c3
@@ -45,12 +43,10 @@ header .opt {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
-    /* database display table */
 }
 
 
 /* table border-spacing: */
-
 #table td,
 #table th {
     border: 1px solid #807676;
